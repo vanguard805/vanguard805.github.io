@@ -71,7 +71,7 @@ The builder includes support for a wide range of Path of Exile 2 equipment and s
 - Jewels
 - Tablets
 - Waystones
-- Relics - Coming Soon
+- **Relics - Coming Soon**
 
 Base, Crafted, Desecrated, and other supported modifier pools are included where applicable.  
 
