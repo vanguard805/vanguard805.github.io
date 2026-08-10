@@ -39,7 +39,6 @@ Python, PySide, pip, a compiler, and the source code are not required.
 - At Least — Searches for the selected value or higher.
 - At Most — Searches for the selected value or lower.
 - Range — Searches between a specified minimum and maximum.
-- 
 
 ## **Compact Regex**
 
