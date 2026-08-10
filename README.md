@@ -16,7 +16,7 @@ No installation is required.
 
 Python, PySide, pip, a compiler, and the source code are not required.
 
-Windows SmartScreen: Because the application is independently distributed and the executable may not be digitally signed, Windows may display a SmartScreen warning. A SmartScreen warning by itself does not mean the program has detected malware.  
+**Windows SmartScreen:** Because the application is independently distributed and the executable may not be digitally signed, Windows may display a SmartScreen warning. A SmartScreen warning by itself does not mean the program has detected malware.  
 
 
 ## **How to Use**
