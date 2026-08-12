@@ -1,6 +1,6 @@
 # **PoE 2 Regex Builder**
 
-**Version: v0.9.9**  
+**Version: v1.0.0**  
 **Author: Vanguard805**
 
 PoE 2 Regex Builder is a free Windows utility for creating compact search regex for Path of Exile 2. Instead of manually writing regex, select the item type and modifiers you want and the program generates a compact search string for you.  
@@ -71,7 +71,7 @@ The builder includes support for a wide range of Path of Exile 2 equipment and s
 - Jewels
 - Tablets
 - Waystones
-- **Relics - Coming Soon**
+- Relics
 
 Base, Crafted, Desecrated, and other supported modifier pools are included where applicable.  
 
